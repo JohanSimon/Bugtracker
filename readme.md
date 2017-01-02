@@ -1,3 +1,6 @@
-Dit is een test project.
+Bugtracker
 
-Angular 2.0 Skeleton
+$ git remote rm origin
+$ git remote add origin <>
+$ git config master.remote origin
+$ git config master.merge refs/heads/master
